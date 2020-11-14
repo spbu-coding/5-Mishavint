@@ -27,7 +27,6 @@ void input( )
 
 int main()
 {
-    printf("This line will deleted soon / other = %p \n" , &other);
     input( );
 
     printf("Code is working correctly\n");
